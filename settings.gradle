@@ -13,4 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "VK Cup"
-include ':app'
+include ':app_qualification'
+include ':app_semi_final'
