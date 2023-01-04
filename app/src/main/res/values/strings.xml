@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VK Cup</string>
+    <string name="include_topic">Include topic</string>
+    <string name="exclude_topic">Exclude topic</string>
+    <string name="onboarding_header_text">Отметьте то, что вам интересно, чтобы настроить Дзен</string>
+    <string name="later">Позже</string>
+    <string name="btn_continue">Продолжить</string>
+</resources>
