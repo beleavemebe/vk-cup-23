@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">app_semi_final</string>
+    <string name="question_placeholder">Вопрос %1$d/%2$d</string>
+    <string name="match_elements">Сопоставьте элементы</string>
+    <string name="send">Отправить</string>
+    <string name="correct">Верно</string>
+    <string name="incorrect">Неверно</string>
+    <string name="drag_elements">Перетащите элементы</string>
+    <string name="fill_blanks">Заполните поля</string>
+    <string name="rate_post">Как Вам эта публикация?\nОцените — и мы лучше поймем, чем заполнять Вашу ленту</string>
+    <string name="thx">Спасибо за оценку!</string>
 </resources>
